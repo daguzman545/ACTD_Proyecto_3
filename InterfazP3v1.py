@@ -20,7 +20,6 @@ INIT_SELECTION_H = "2.3vmin"
 INIT_LOADER_TYPE = 'dot'
 INIT_LOADER_DATASET_COLOR = "#3E3F3A"
 
-
     
 """Create a Plotly Dash dashboard."""
 app = dash.Dash(
@@ -41,11 +40,7 @@ app.title = "WORLD ATLAS 2.0" #browser tab
 # Initialize callbacks after our app is loaded
 #init_callbacks(dash_app)
 
- 
-
-
-
-  
+   
 create_dash_layout_button_group = dbc.ButtonGroup(
     [
         dbc.Button("First"),
