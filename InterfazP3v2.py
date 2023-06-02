@@ -14,6 +14,7 @@ import json
 import plotly.express as px
 #from urllib.request import urlopen
 import dash_bootstrap_components as dbc
+import plotly.express as px
 
 """## Importar json con las ubicaciones por departamento"""
 ruta_archivo = "D:/UNIANDES/ACTD/Git/Repositorio3/ACTD_Proyecto_3/data.json"

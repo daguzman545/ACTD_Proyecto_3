@@ -1,0 +1,101 @@
+,estu_tipodocumento,cole_area_ubicacion,cole_bilingue,cole_caracter,cole_depto_ubicacion,Region,cole_genero,cole_jornada,cole_naturaleza,estu_fechanacimiento,estu_genero,fami_cuartoshogar,fami_educacionmadre,fami_educacionpadre,fami_estratovivienda,fami_personashogar,fami_tieneautomovil,fami_tienecomputador,fami_tieneinternet,fami_tienelavadora,desemp_ingles
+0,TI,RURAL,N,TECNICO,Region Caribe,Region Caribe,MIXTO,UNICA,OFICIAL,2005 y 2006,F,Cuatro,Secundaria (Bachillerato) completa,Primaria incompleta,Estrato 2,5 a 6,Si,No,No,Si,A-
+1,TI,URBANO,N,ACADEMICO,Region Andina,Region Andina,MIXTO,MANANA,OFICIAL,>2006,F,Dos,Primaria completa,Primaria incompleta,Estrato 2,3 a 4,No,No,Si,Si,A-
+2,TI,URBANO,N,ACADEMICO,Region Andina,Region Andina,MIXTO,MANANA,NO OFICIAL,>2006,M,Cinco,Educacion profesional completa,No sabe,Estrato 4,3 a 4,Si,Si,Si,Si,A2
+3,TI,URBANO,N,ACADEMICO,Region Andina,Region Andina,MIXTO,TARDE,OFICIAL,2000-2005,F,Tres,Tecnica o tecnologica completa,Secundaria (Bachillerato) completa,Estrato 2,3 a 4,No,Si,Si,Si,A2
+4,CC,URBANO,N,ACADEMICO,Region Andina,Region Andina,MIXTO,MANANA,OFICIAL,2000-2005,F,Dos,Primaria incompleta,Secundaria (Bachillerato) incompleta,Sin Estrato,3 a 4,Si,Si,Si,No,A1
+5,CC,URBANO,N,ACADEMICO,Region Caribe,Region Caribe,MIXTO,MANANA,OFICIAL,2000-2005,F,Cuatro,No sabe,Secundaria (Bachillerato) incompleta,Estrato 2,5 a 6,No,No,No,No,A-
+6,TI,URBANO,N,TECNICO/ACADEMICO,Region Andina,Region Andina,MIXTO,UNICA,OFICIAL,2000-2005,F,Dos,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 3,3 a 4,No,Si,Si,Si,A-
+7,Otros,RURAL,N,TECNICO,Region Caribe,Region Caribe,MIXTO,MANANA,OFICIAL,2005 y 2006,M,Tres,Ninguno,Ninguno,Sin Estrato,5 a 6,No,No,Si,No,A-
+8,TI,URBANO,N,TECNICO/ACADEMICO,Region Caribe,Region Caribe,MIXTO,UNICA,OFICIAL,2000-2005,M,Tres,Tecnica o tecnologica completa,Educacion profesional completa,Estrato 4,7 a 8,Si,Si,Si,Si,A1
+9,Otros,RURAL,N,TECNICO/ACADEMICO,Region Caribe,Region Caribe,MIXTO,MANANA,OFICIAL,>2006,F,Dos,Primaria incompleta,Primaria incompleta,Estrato 4,1 a 2,Si,No,Si,Si,A-
+10,TI,URBANO,N,ACADEMICO,Region Andina,Region Andina,MIXTO,UNICA,OFICIAL,2005 y 2006,M,Dos,Tecnica o tecnologica completa,Educacion profesional completa,Sin Estrato,5 a 6,No,Si,No,Si,A-
+11,TI,URBANO,N,TECNICO/ACADEMICO,Region Andina,Region Andina,MIXTO,UNICA,OFICIAL,2005 y 2006,M,Tres,Secundaria (Bachillerato) incompleta,Secundaria (Bachillerato) completa,Estrato 3,5 a 6,Si,Si,Si,Si,A2
+12,TI,URBANO,N,TECNICO,Region Orinoquia,Region Orinoquia,MIXTO,MANANA,OFICIAL,2000-2005,M,Tres,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 1,5 a 6,No,Si,Si,Si,A-
+13,TI,RURAL,N,ACADEMICO,Region Andina,Region Andina,MASCULINO,COMPLETA,NO OFICIAL,2005 y 2006,M,Cuatro,Educacion profesional completa,Postgrado,Estrato 4,5 a 6,Si,Si,Si,Si,B1
+14,TI,URBANO,N,ACADEMICO,Region Caribe,Region Caribe,MIXTO,UNICA,OFICIAL,2005 y 2006,M,Dos,Secundaria (Bachillerato) incompleta,Secundaria (Bachillerato) incompleta,Estrato 1,5 a 6,No,No,Si,Si,A1
+15,TI,URBANO,N,TECNICO/ACADEMICO,Region Andina,Region Andina,FEMENINO,UNICA,OFICIAL,>2006,F,Tres,Secundaria (Bachillerato) completa,Primaria completa,Estrato 3,3 a 4,No,Si,Si,Si,A2
+16,TI,URBANO,N,TECNICO/ACADEMICO,Region Caribe,Region Caribe,MIXTO,MANANA,OFICIAL,2005 y 2006,M,Tres,Primaria completa,Primaria incompleta,Estrato 3,5 a 6,No,No,Si,Si,A-
+17,TI,URBANO,N,ACADEMICO,Region Andina,Region Andina,MIXTO,MANANA,OFICIAL,2000-2005,M,Cuatro,Tecnica o tecnologica completa,No sabe,Estrato 2,7 a 8,No,No,Si,Si,A1
+18,CC,URBANO,N,ACADEMICO,Region Pacifica,Region Pacifica,MIXTO,SABATINA,OFICIAL,2000-2005,F,Cuatro,Primaria completa,Ninguno,Estrato 2,5 a 6,No,No,No,No,A-
+19,TI,URBANO,N,ACADEMICO,Region Orinoquia,Region Orinoquia,MIXTO,MANANA,OFICIAL,2000-2005,M,Tres,Primaria incompleta,Primaria incompleta,Estrato 3,3 a 4,No,No,No,Si,A-
+20,TI,URBANO,N,TECNICO/ACADEMICO,Region Caribe,Region Caribe,MIXTO,UNICA,OFICIAL,>2006,F,Dos,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) incompleta,Estrato 1,5 a 6,No,No,Si,Si,A-
+21,TI,URBANO,N,ACADEMICO,Region Caribe,Region Caribe,MIXTO,TARDE,OFICIAL,>2006,M,Tres,Secundaria (Bachillerato) incompleta,Secundaria (Bachillerato) incompleta,Estrato 1,5 a 6,No,No,Si,Si,A-
+22,TI,URBANO,N,TECNICO/ACADEMICO,Region Andina,Region Andina,MIXTO,UNICA,OFICIAL,2000-2005,M,Seis o mas,Secundaria (Bachillerato) completa,Primaria completa,Estrato 3,9 o mas,No,No,Si,Si,A2
+23,TI,URBANO,N,TECNICO/ACADEMICO,Region Andina,Region Andina,MIXTO,COMPLETA,OFICIAL,2005 y 2006,F,Dos,Postgrado,Postgrado,Estrato 2,1 a 2,No,Si,Si,Si,B1
+24,TI,URBANO,N,ACADEMICO,Region Andina,Region Andina,MIXTO,COMPLETA,NO OFICIAL,2005 y 2006,M,Tres,Educacion profesional completa,Educacion profesional completa,Estrato 2,5 a 6,Si,Si,Si,Si,A1
+25,TI,URBANO,N,TECNICO/ACADEMICO,Region Andina,Region Andina,MIXTO,MANANA,OFICIAL,>2006,M,Dos,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 1,3 a 4,Si,Si,Si,Si,A1
+26,TI,URBANO,N,ACADEMICO,Region Andina,Region Andina,MIXTO,MANANA,OFICIAL,2005 y 2006,M,Tres,Primaria incompleta,Primaria incompleta,Estrato 2,3 a 4,No,No,No,Si,A-
+27,TI,URBANO,N,TECNICO/ACADEMICO,Region Andina,Region Andina,MIXTO,UNICA,OFICIAL,>2006,M,Tres,Primaria completa,Primaria incompleta,Estrato 1,5 a 6,Si,Si,Si,Si,A2
+28,TI,URBANO,N,ACADEMICO,Region Caribe,Region Caribe,MIXTO,MANANA,OFICIAL,>2006,F,Dos,Secundaria (Bachillerato) incompleta,Primaria incompleta,Estrato 1,5 a 6,No,No,No,No,A-
+29,TI,URBANO,N,ACADEMICO,Region Andina,Region Andina,MIXTO,MANANA,OFICIAL,>2006,M,Tres,Primaria completa,Secundaria (Bachillerato) incompleta,Estrato 2,3 a 4,Si,No,Si,Si,A-
+30,TI,URBANO,N,TECNICO,Region Andina,Region Andina,MIXTO,COMPLETA,OFICIAL,2000-2005,F,Uno,Primaria completa,Ninguno,Estrato 2,3 a 4,No,No,Si,No,A-
+31,TI,URBANO,N,ACADEMICO,Region Amazonia,Region Amazonia,MIXTO,MANANA,OFICIAL,>2006,F,Tres,Primaria completa,Primaria incompleta,Estrato 2,5 a 6,No,No,No,No,A1
+32,CC,URBANO,N,ACADEMICO,Region Andina,Region Andina,MIXTO,MANANA,NO OFICIAL,2000-2005,F,Tres,No sabe,No sabe,Estrato 2,3 a 4,No,No,Si,Si,A-
+33,TI,URBANO,N,TECNICO/ACADEMICO,Region Andina,Region Andina,MIXTO,COMPLETA,OFICIAL,2005 y 2006,M,Tres,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 2,3 a 4,No,No,No,Si,A-
+34,TI,URBANO,N,TECNICO/ACADEMICO,Region Andina,Region Andina,MIXTO,MANANA,OFICIAL,2005 y 2006,M,Dos,Primaria incompleta,No sabe,Estrato 1,3 a 4,No,No,No,No,A1
+35,TI,RURAL,N,ACADEMICO,Region Caribe,Region Caribe,MIXTO,MANANA,OFICIAL,>2006,F,Tres,Primaria incompleta,Primaria incompleta,Estrato 1,5 a 6,No,No,No,Si,A-
+36,TI,RURAL,N,ACADEMICO,Region Caribe,Region Caribe,MIXTO,UNICA,OFICIAL,>2006,F,Tres,Tecnica o tecnologica completa,Secundaria (Bachillerato) completa,Estrato 4,7 a 8,No,No,Si,Si,A-
+37,TI,URBANO,N,ACADEMICO,Region Andina,Region Andina,MIXTO,COMPLETA,NO OFICIAL,2005 y 2006,F,Dos,No sabe,No sabe,Estrato 3,3 a 4,No,Si,Si,Si,A1
+38,CC,URBANO,N,TECNICO,Region Caribe,Region Caribe,MIXTO,MANANA,NO OFICIAL,2000-2005,M,Dos,Primaria completa,Ninguno,Estrato 1,1 a 2,No,No,No,Si,A-
+39,TI,RURAL,N,TECNICO,Region Orinoquia,Region Orinoquia,MIXTO,UNICA,OFICIAL,>2006,F,Tres,Tecnica o tecnologica completa,Secundaria (Bachillerato) completa,Estrato 3,5 a 6,No,Si,Si,Si,A-
+40,TI,URBANO,N,ACADEMICO,Region Caribe,Region Caribe,MIXTO,MANANA,OFICIAL,2000-2005,M,Dos,Primaria incompleta,Primaria incompleta,Estrato 2,3 a 4,No,No,No,Si,A1
+41,TI,URBANO,N,TECNICO/ACADEMICO,Region Caribe,Region Caribe,MIXTO,UNICA,OFICIAL,2005 y 2006,M,Dos,Educacion profesional completa,Secundaria (Bachillerato) completa,Estrato 1,3 a 4,No,No,Si,Si,B1
+42,TI,RURAL,N,TECNICO,Region Pacifica,Region Pacifica,MIXTO,MANANA,OFICIAL,2000-2005,F,Dos,Primaria incompleta,Primaria incompleta,Sin Estrato,5 a 6,No,No,Si,Si,A-
+43,CC,URBANO,N,ACADEMICO,Region Andina,Region Andina,MIXTO,MANANA,NO OFICIAL,2000-2005,M,Tres,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 2,3 a 4,Si,Si,Si,Si,A-
+44,TI,URBANO,N,TECNICO/ACADEMICO,Region Andina,Region Andina,MIXTO,UNICA,OFICIAL,2005 y 2006,F,Tres,Secundaria (Bachillerato) incompleta,Ninguno,Estrato 1,3 a 4,No,No,No,No,A1
+45,TI,URBANO,N,TECNICO,Region Caribe,Region Caribe,MIXTO,TARDE,NO OFICIAL,2005 y 2006,M,Dos,Tecnica o tecnologica incompleta,Secundaria (Bachillerato) completa,Estrato 1,3 a 4,No,No,Si,Si,A2
+46,TI,URBANO,N,TECNICO/ACADEMICO,Region Andina,Region Andina,MIXTO,MANANA,OFICIAL,2000-2005,F,Dos,Primaria completa,Primaria completa,Estrato 1,3 a 4,No,No,Si,Si,A2
+47,Otros,RURAL,N,ACADEMICO,Region Andina,Region Andina,MIXTO,TARDE,OFICIAL,2005 y 2006,M,Cuatro,Primaria completa,Secundaria (Bachillerato) incompleta,Estrato 2,5 a 6,No,No,No,No,A-
+48,TI,URBANO,N,ACADEMICO,Region Pacifica,Region Pacifica,MIXTO,MANANA,NO OFICIAL,>2006,M,Dos,Postgrado,Educacion profesional completa,Estrato 3,1 a 2,Si,Si,Si,Si,B1
+49,TI,URBANO,N,TECNICO,Region Caribe,Region Caribe,MIXTO,UNICA,OFICIAL,2005 y 2006,M,Dos,Secundaria (Bachillerato) incompleta,Secundaria (Bachillerato) incompleta,Estrato 2,7 a 8,No,Si,Si,Si,A-
+50,CC,URBANO,N,ACADEMICO,Region Caribe,Region Caribe,MIXTO,MANANA,OFICIAL,2000-2005,M,Cuatro,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 2,3 a 4,No,No,No,Si,A-
+51,TI,URBANO,N,ACADEMICO,Region Andina,Region Andina,MIXTO,MANANA,OFICIAL,>2006,F,Dos,Secundaria (Bachillerato) completa,Primaria incompleta,Sin Estrato,5 a 6,No,No,No,No,A-
+52,CC,URBANO,N,ACADEMICO,Region Andina,Region Andina,MIXTO,SABATINA,NO OFICIAL,<2000,F,Cuatro,Educacion profesional incompleta,Primaria incompleta,Estrato 2,9 o mas,No,No,No,Si,A-
+53,TI,RURAL,N,TECNICO/ACADEMICO,Region Andina,Region Andina,MIXTO,TARDE,OFICIAL,>2006,M,Tres,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) incompleta,Estrato 4,3 a 4,No,Si,Si,Si,A1
+54,TI,URBANO,N,ACADEMICO,Region Caribe,Region Caribe,MIXTO,MANANA,OFICIAL,2000-2005,M,Tres,Secundaria (Bachillerato) completa,Primaria completa,Estrato 3,3 a 4,No,No,No,Si,A-
+55,CC,RURAL,N,ACADEMICO,Region Caribe,Region Caribe,MIXTO,MANANA,OFICIAL,<2000,M,Cinco,Ninguno,Secundaria (Bachillerato) incompleta,Sin Estrato,5 a 6,No,No,Si,No,A-
+56,TI,URBANO,N,ACADEMICO,Region Caribe,Region Caribe,MIXTO,MANANA,OFICIAL,>2006,M,Dos,Tecnica o tecnologica incompleta,Tecnica o tecnologica incompleta,Estrato 1,1 a 2,No,No,Si,No,A-
+57,TI,URBANO,N,TECNICO/ACADEMICO,Region Caribe,Region Caribe,MIXTO,UNICA,OFICIAL,2005 y 2006,F,Dos,Educacion profesional completa,Educacion profesional completa,Sin Estrato,5 a 6,No,No,Si,Si,A-
+58,TI,URBANO,N,TECNICO/ACADEMICO,Region Andina,Region Andina,MIXTO,MANANA,OFICIAL,2000-2005,F,Uno,Ninguno,Primaria incompleta,Sin Estrato,3 a 4,No,No,No,No,A-
+59,TI,URBANO,N,TECNICO/ACADEMICO,Region Andina,Region Andina,MIXTO,UNICA,OFICIAL,>2006,F,Dos,Tecnica o tecnologica incompleta,Tecnica o tecnologica completa,Estrato 2,3 a 4,No,Si,Si,Si,A-
+60,CC,RURAL,N,ACADEMICO,Region Caribe,Region Caribe,MIXTO,MANANA,OFICIAL,2000-2005,F,Tres,Primaria completa,Primaria incompleta,Estrato 1,5 a 6,No,No,No,Si,A-
+61,TI,RURAL,N,ACADEMICO,Region Pacifica,Region Pacifica,MIXTO,COMPLETA,OFICIAL,>2006,M,Dos,Ninguno,Ninguno,Estrato 3,5 a 6,No,No,Si,No,A-
+62,TI,RURAL,N,TECNICO/ACADEMICO,Region Caribe,Region Caribe,MIXTO,UNICA,OFICIAL,2005 y 2006,M,Dos,Secundaria (Bachillerato) completa,Primaria incompleta,Estrato 2,3 a 4,No,Si,No,Si,A-
+63,TI,URBANO,N,ACADEMICO,Region Caribe,Region Caribe,MIXTO,MANANA,OFICIAL,2005 y 2006,M,Dos,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Sin Estrato,3 a 4,No,No,No,No,A-
+64,TI,URBANO,N,TECNICO/ACADEMICO,Region Caribe,Region Caribe,MIXTO,UNICA,OFICIAL,2005 y 2006,F,Dos,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 5,3 a 4,No,No,Si,Si,A-
+65,CC,URBANO,N,ACADEMICO,Region Caribe,Region Caribe,MIXTO,MANANA,OFICIAL,2000-2005,F,Dos,Primaria incompleta,Secundaria (Bachillerato) incompleta,Estrato 1,3 a 4,No,Si,Si,No,A-
+66,CC,URBANO,N,TECNICO/ACADEMICO,Region Andina,Region Andina,MIXTO,MANANA,OFICIAL,2000-2005,M,Tres,Tecnica o tecnologica completa,Postgrado,Estrato 2,3 a 4,Si,Si,Si,Si,A-
+67,CC,URBANO,N,ACADEMICO,Region Andina,Region Andina,MIXTO,MANANA,NO OFICIAL,<2000,F,Cinco,Primaria incompleta,Primaria incompleta,Estrato 2,3 a 4,No,No,No,No,A-
+68,TI,URBANO,N,TECNICO/ACADEMICO,Region Orinoquia,Region Orinoquia,MIXTO,MANANA,OFICIAL,2005 y 2006,F,Tres,Educacion profesional completa,Tecnica o tecnologica incompleta,Estrato 2,5 a 6,Si,No,Si,Si,A-
+69,TI,URBANO,N,TECNICO/ACADEMICO,Region Caribe,Region Caribe,MIXTO,MANANA,OFICIAL,2005 y 2006,F,Dos,No sabe,No sabe,Estrato 3,3 a 4,Si,Si,Si,Si,A1
+70,TI,RURAL,N,ACADEMICO,Region Caribe,Region Caribe,MIXTO,MANANA,OFICIAL,>2006,F,Dos,Tecnica o tecnologica completa,Tecnica o tecnologica completa,Sin Estrato,3 a 4,No,No,No,Si,A1
+71,TI,URBANO,N,TECNICO/ACADEMICO,Region Andina,Region Andina,MIXTO,COMPLETA,OFICIAL,2000-2005,M,Dos,Secundaria (Bachillerato) completa,Primaria incompleta,Estrato 1,3 a 4,No,No,No,Si,A-
+72,TI,URBANO,N,TECNICO/ACADEMICO,Region Andina,Region Andina,MIXTO,MANANA,OFICIAL,2005 y 2006,F,Tres,Tecnica o tecnologica completa,Primaria incompleta,Estrato 2,5 a 6,Si,No,No,Si,A2
+73,TI,RURAL,N,TECNICO/ACADEMICO,Region Andina,Region Andina,MIXTO,NOCHE,OFICIAL,2000-2005,F,Uno,Educacion profesional completa,No sabe,Estrato 6,5 a 6,No,No,Si,No,A2
+74,TI,URBANO,N,ACADEMICO,Region Andina,Region Andina,MIXTO,MANANA,NO OFICIAL,>2006,F,Tres,Secundaria (Bachillerato) incompleta,Secundaria (Bachillerato) completa,Estrato 4,3 a 4,Si,Si,Si,Si,A1
+75,TI,URBANO,N,TECNICO,Region Caribe,Region Caribe,MIXTO,MANANA,OFICIAL,>2006,M,Dos,Tecnica o tecnologica completa,Secundaria (Bachillerato) completa,Estrato 1,1 a 2,No,Si,Si,Si,A2
+76,TI,URBANO,N,ACADEMICO,Region Andina,Region Andina,MIXTO,COMPLETA,NO OFICIAL,2005 y 2006,M,Cuatro,Postgrado,Postgrado,Estrato 4,5 a 6,Si,Si,Si,Si,B1
+77,TI,URBANO,N,TECNICO,Region Caribe,Region Caribe,MIXTO,MANANA,OFICIAL,>2006,F,Dos,Tecnica o tecnologica incompleta,Educacion profesional incompleta,Estrato 2,3 a 4,No,Si,Si,Si,A-
+78,TI,URBANO,N,ACADEMICO,Region Andina,Region Andina,MIXTO,COMPLETA,NO OFICIAL,2005 y 2006,M,Tres,No sabe,No sabe,Estrato 3,5 a 6,Si,Si,Si,Si,B1
+79,TI,URBANO,N,ACADEMICO,Region Andina,Region Andina,MIXTO,MANANA,OFICIAL,2000-2005,F,Tres,Secundaria (Bachillerato) incompleta,No sabe,Estrato 3,5 a 6,No,Si,Si,Si,A-
+80,TI,URBANO,N,TECNICO/ACADEMICO,Region Caribe,Region Caribe,MIXTO,TARDE,OFICIAL,2000-2005,M,Cinco,Educacion profesional completa,Educacion profesional incompleta,Estrato 4,7 a 8,Si,Si,Si,Si,A-
+81,TI,URBANO,N,TECNICO/ACADEMICO,Region Pacifica,Region Pacifica,MIXTO,MANANA,OFICIAL,2000-2005,F,Tres,Primaria completa,Primaria completa,Estrato 2,3 a 4,No,Si,No,No,A2
+82,TI,URBANO,N,TECNICO/ACADEMICO,Region Andina,Region Andina,MIXTO,TARDE,OFICIAL,2005 y 2006,M,Tres,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 1,5 a 6,No,Si,Si,Si,A-
+83,TI,URBANO,N,ACADEMICO,Region Andina,Region Andina,MIXTO,TARDE,OFICIAL,>2006,F,Tres,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 2,3 a 4,Si,Si,Si,Si,A1
+84,TI,URBANO,N,TECNICO,Region Amazonia,Region Amazonia,MIXTO,UNICA,OFICIAL,2005 y 2006,M,Dos,Secundaria (Bachillerato) completa,No sabe,Estrato 1,3 a 4,No,Si,Si,No,A-
+85,TI,URBANO,N,ACADEMICO,Region Caribe,Region Caribe,MIXTO,MANANA,OFICIAL,2000-2005,M,Dos,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 2,5 a 6,No,No,No,No,A-
+86,TI,RURAL,N,TECNICO/ACADEMICO,Region Pacifica,Region Pacifica,MIXTO,MANANA,OFICIAL,2000-2005,F,Seis o mas,Secundaria (Bachillerato) incompleta,Primaria incompleta,Sin Estrato,5 a 6,No,No,No,Si,A-
+87,CC,URBANO,N,ACADEMICO,Region Andina,Region Andina,MIXTO,MANANA,OFICIAL,2000-2005,F,Dos,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 1,3 a 4,No,No,Si,Si,A1
+88,TI,URBANO,N,ACADEMICO,Region Andina,Region Andina,MIXTO,COMPLETA,OFICIAL,2005 y 2006,F,Dos,Educacion profesional completa,Educacion profesional incompleta,Estrato 3,1 a 2,No,Si,Si,Si,A2
+89,TI,URBANO,N,ACADEMICO,Region Caribe,Region Caribe,MIXTO,COMPLETA,NO OFICIAL,2005 y 2006,M,Tres,Educacion profesional incompleta,Postgrado,Estrato 5,3 a 4,Si,Si,No,Si,A1
+90,TI,URBANO,N,TECNICO/ACADEMICO,Region Andina,Region Andina,MIXTO,MANANA,OFICIAL,2005 y 2006,F,Tres,No sabe,No sabe,Estrato 2,3 a 4,Si,No,Si,Si,A-
+91,TI,URBANO,N,TECNICO/ACADEMICO,Region Andina,Region Andina,MIXTO,COMPLETA,OFICIAL,2005 y 2006,F,Tres,Tecnica o tecnologica incompleta,Tecnica o tecnologica incompleta,Estrato 2,3 a 4,No,Si,Si,Si,B1
+92,TI,URBANO,N,ACADEMICO,Region Caribe,Region Caribe,MIXTO,MANANA,OFICIAL,>2006,F,Dos,Secundaria (Bachillerato) incompleta,Secundaria (Bachillerato) incompleta,Estrato 1,3 a 4,No,No,Si,No,A-
+93,TI,URBANO,S,TECNICO/ACADEMICO,Region Pacifica,Region Pacifica,MIXTO,MANANA,OFICIAL,2005 y 2006,F,Cinco,Secundaria (Bachillerato) incompleta,Secundaria (Bachillerato) incompleta,Sin Estrato,5 a 6,No,No,No,No,A-
+94,TI,URBANO,N,ACADEMICO,Region Andina,Region Andina,MIXTO,COMPLETA,NO OFICIAL,>2006,F,Tres,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 2,3 a 4,No,Si,Si,Si,A1
+95,TI,URBANO,N,TECNICO/ACADEMICO,Region Andina,Region Andina,MIXTO,UNICA,OFICIAL,2000-2005,F,Tres,Secundaria (Bachillerato) completa,Primaria incompleta,Estrato 2,5 a 6,No,No,Si,Si,A1
+96,TI,URBANO,N,ACADEMICO,Region Andina,Region Andina,MIXTO,MANANA,OFICIAL,2000-2005,M,Dos,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) completa,Estrato 3,3 a 4,No,Si,Si,Si,A2
+97,TI,URBANO,N,TECNICO/ACADEMICO,Region Andina,Region Andina,MIXTO,UNICA,OFICIAL,2000-2005,F,Uno,Primaria incompleta,Primaria incompleta,Estrato 1,3 a 4,No,No,No,No,A-
+98,TI,URBANO,N,TECNICO/ACADEMICO,Region Andina,Region Andina,MIXTO,MANANA,OFICIAL,2005 y 2006,M,Tres,Secundaria (Bachillerato) completa,Secundaria (Bachillerato) incompleta,Estrato 2,5 a 6,Si,No,No,Si,B+
+99,TI,URBANO,N,TECNICO/ACADEMICO,Region Andina,Region Andina,MIXTO,UNICA,OFICIAL,2005 y 2006,M,Tres,Educacion profesional completa,Tecnica o tecnologica incompleta,Estrato 3,3 a 4,Si,Si,Si,Si,B1
